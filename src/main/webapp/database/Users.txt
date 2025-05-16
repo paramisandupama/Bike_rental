@@ -1,0 +1,5 @@
+1|Admin User|admin@admin.com|admin123|admin
+2|John Doe|john@example.com|password123|user
+3|Venura Jayasingha|Venurajayasingha1@gmail.com|gayasha123|user
+4|Gayasha Jayasingha|gayasha@Admin.com|gayasha123|admin
+5|Dananjana Bandara|dananjanabandara@gmail.com|123|user
